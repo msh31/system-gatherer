@@ -1,6 +1,6 @@
 # 🔍 System Gatherer - Educational Malware Sample
 
-**Part of the [Malware Analysis Learning Course](https://github.com/msh31/malware-analysis)**
+**Part of the [Malware Analysis Learning Course](https://github.com/msh31/malware-analysis) - Challenge 1A**
 
 Educational demonstration of Windows system enumeration techniques commonly used by malware for initial reconnaissance.
 
