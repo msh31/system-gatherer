@@ -50,6 +50,5 @@ __pycache__/
 
 # Other
 .vs/*
-ANALYSIS.md
 *.txt
 builds/*
